@@ -28,4 +28,7 @@ Hence this is something that not only is important in online courses but also in
 Live coding for the sake of cooperative learning without proper collaboration can lead to code cramming without understanding.
 Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators.
 
+### Logo
+![logo](logo.png)
+
 
