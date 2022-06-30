@@ -18,12 +18,14 @@ Therefore, collaborative learning can strongly affect student participation, per
 instructors are affected by this issue too. Because teaching performance has always been very important to instructors. 
 
 Speaking of the importance of live coding research shows that live coding:
-1. Makes the process of programming easy to understand for novice programmers
-2. Helps students learn the process of debugging
-3. Exposes students to good programming practices
+1. Makes the process of programming easy to understand for novice programmers.
+2. Helps students learn the process of [debugging](www.google.com).
+3. Exposes students to good programming practices.
 4. Students prefer to code along with the instructor during a live-coding session rather than being mere observers.
  
 Hence this is something that not only is important in online courses but also in in-person and thus hybrid classes. 
 
 Live coding for the sake of cooperative learning without proper collaboration can lead to code cramming without understanding.
 Collaborative writing without history and log maintenance can cause a lack of transparency and poor engagement of collaborators.
+
+
