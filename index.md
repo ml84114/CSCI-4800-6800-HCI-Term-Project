@@ -1,6 +1,6 @@
 # Synchronous collaborative programming 
 
-## Project for CSCI 4800/6800 Human-Computer Interaction (HCI)
+**Project for CSCI 4800/6800 Human-Computer Interaction (HCI)**
 
 ### Collaborators:
 1. Ehsan Latif (ehsan.latif@uga.edu)
